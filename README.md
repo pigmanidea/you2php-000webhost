@@ -3,28 +3,29 @@
 [免翻墙看Youtube教程]
 # 什么是You2php?
 You2PHP是一个用PHP开发的Youtube流量代理脚本、通过对接谷歌api获取数据，可用来搭建Youtube视频镜像站、可实现长城之内观看Youtube。
-（详情官网：https://you2php.github.io/）（免翻墙：https://github.com/You2php/you2php/）
+详情官网：https://you2php.github.io
+免翻墙：https://github.com/You2php/you2php/
 # 编写缘由：
 YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使用不太理想，具体几个缺点：1.网页速度慢，不超过500kb/s。2.下载视频容易中断或者失败。3.会被主机商停用7个小时。
 小编试着使用自己方式部署You2php,发现观看油管视频的网速胜过免费的vpn,ssr,v2ray等免费翻墙节点，下载视频速度正常保持1M/S。使用一个月以来，还未出现被主机商停用的情况，除了偶尔网速上不去，正常时候都能流畅得播放视频。
 # 关于学习部署You2php的申明：
 1.	敏感人士不要使用，学习人士低调使用，请不要广泛传播；
-2.	小编拒绝商业用途，拒绝帮别人搭建You2php并收取报酬（https://github.com/You2php/you2php/）；
+2.	小编拒绝商业用途，拒绝帮别人搭建You2php并收取报酬 https://github.com/You2php/you2php/
 3.	伸手党请绕道，本项目需要耐心按照教程步骤才能成功；
 4.	请不要将此教程拿去谋取利益，一切因商业用途产生的法律问题一律与Pigman无关，也给广大好友提个醒，花钱委托别人帮忙很容易泄露自己隐私，有可能被别人盗取信息使用。
 # 简单原理：
 我是将You2php部署在000webhost的海外免费虚拟主机上，绑定自己免费域名，再通过cloud flare进行DNS免费加速，实现看油管视频的。000webhost为每个free app提供10G/月的流量，所以还得省点使用。
 # 具体部署：
 # 1.准备梯子：
-因为部分网页的账户注册，还有youtube api的获取，需要梯子才能进行。请有代理的人士可以跳过这一步骤，没有先暂时使用下面链接的作者的方法吧。（注意：对宗教敏感的人士请不要使用，里面的软件都涉及到宗教信息，想搭梯子请另找他路吧。）（https://github.com/bannedbook/fanqiang/wiki）
+因为部分网页的账户注册，还有youtube api的获取，需要梯子才能进行。请有代理的人士可以跳过这一步骤，没有先暂时使用下面链接的作者的方法吧。（注意：对宗教敏感的人士请不要使用，里面的软件都涉及到宗教信息，想搭梯子请另找他路吧。）https://github.com/bannedbook/fanqiang/wiki
 
-获取Youtube API：请查看教程（https://laod.cn/tools/you2b-php.html）
+获取Youtube API：请查看教程 https://laod.cn/tools/you2b-php.html
 
-获取you2php的源码：下载压缩包（https://zhujiwiki.com/12297.html）或者 （https://github.com/pigmanidea/you2php-000webhost/blob/master/you2php.zip）
+获取you2php的源码：下载压缩包 https://zhujiwiki.com/12297.html 或者 https://github.com/pigmanidea/you2php-000webhost/blob/master/you2php.zip
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/1.png)
 # 2.申请免费域名：
-该过程需要梯子。请访问网站链接：（https://www.freenom.com/zh/index.html?lang=zh）
+该过程需要梯子。请访问网站链接：https://www.freenom.com/zh/index.html?lang=zh
 第一步：注册一个账户。
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/2.png)
 
@@ -63,7 +64,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 已经购买成功，跳回主页。
 
 # 3.申请000webhost账号，获得免费虚拟主机。
-请登录网址（https://www.000webhost.com/）注册时候需要梯子。
+请登录网址 https://www.000webhost.com/ 注册时候需要梯子。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/11.png)
 
@@ -203,7 +204,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 连接成功的界面。
 
 5.	进行DNS加速。
-注册cloudflare.账号，(https://dash.cloudflare.com/sign-up)
+注册cloudflare.账号， https://dash.cloudflare.com/sign-up
 注意这一步骤必须先使域名成功绑定000webhost后，才能继续进行这一步。
 
 
@@ -255,7 +256,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 
 进去后要你输入你的用户名，密码。
 
-接下来步骤，请按照这位作者的步骤填写吧：（https://laod.cn/tools/you2b-php.html）
+接下来步骤，请按照这位作者的步骤填写吧：https://laod.cn/tools/you2b-php.html
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/59.png)
 
