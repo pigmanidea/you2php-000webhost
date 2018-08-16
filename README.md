@@ -20,7 +20,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 
 获取Youtube API：请查看教程（https://laod.cn/tools/you2b-php.html）
 
-获取you2php的源码：下载压缩包（https://zhujiwiki.com/12297.html）或者（https://github.com/pigmanidea/you2php-000webhost/blob/master/you2php.zip）
+获取you2php的源码：下载压缩包（https://zhujiwiki.com/12297.html）或者 （https://github.com/pigmanidea/you2php-000webhost/blob/master/you2php.zip）
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/1.png)
 # 2.申请免费域名：
