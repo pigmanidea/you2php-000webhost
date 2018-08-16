@@ -21,6 +21,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 获取Youtube API：请查看教程（https://laod.cn/tools/you2b-php.html）
 
 获取you2php的源码：下载压缩包（https://zhujiwiki.com/12297.html）或者（https://github.com/pigmanidea/you2php-000webhost/blob/master/you2php.zip）
+
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/1.png)
 # 2.申请免费域名：
 该过程需要梯子。请访问网站链接：（https://www.freenom.com/zh/index.html?lang=zh）
@@ -28,29 +29,37 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/2.png)
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/3.png)
+
 使用谷歌邮箱登陆。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/4.png)
+
 我们要创建一个免费域名。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/5.png)
+
 查找域名，比如：pigman
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/6.png)
+
 任意选择一个，都是免费的。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/7.png)
+
 点击“checkout”。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/8.png)
+
 点击购买12个月。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/9.png)
+
 打沟，其他信息可以不填，然后直接下一步。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/10.png)
+
 已经购买成功，跳回主页。
 
 # 3.申请000webhost账号，获得免费虚拟主机。
@@ -59,22 +68,27 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/11.png)
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/12.png)
+
 这一步应该不难吧？注册完成后要验证邮箱地址，查看Email，验证000webhost的注册地址，即可申请成功。邮件的收到可能需要一点时间，请耐心等待几分钟。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/13.png)
+
 申请成功，进行登陆。Log in.
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/14.png)
+
 点击管理，因为它已经为我们创建一个免费app了，所以可以开始进行you2php的上传。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/15.png)
+
 点击上传。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/16.png)
+
 进去看到这个界面，将htaccess这个文件删除，否则播放视频会出现错误。
 
 
@@ -91,19 +105,24 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/19.png)
+
 上传文件
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/20.png)
+
 这个界面表示，上传文件成功。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/21.png)
+
 我们要把它解压出来。并重命名，比如：2018。“2018”文件夹作为空间的根目录。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/22.png)
+
 可以将压缩包删除了。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/23.png)
+
 进入我的“2018”的文件里，看到“you2php”,再点进去，将里面文件移出来。
 
 
@@ -118,6 +137,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/28.png)
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/29.png)
+
 即可看到此列表。
 
 接下来，将“2018”文件加锁。因为不加锁容易被GFW封锁，可能被别人盗取信息，比如你的YouTube api。下面进行演示：
@@ -125,6 +145,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/31.png)
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/32.png)
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/33.png)
+
 选择自己要加锁的文件夹，设置用户名和密码。
 
 绑定自己的域名：
@@ -137,14 +158,17 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/37.png)
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/38.png)
+
 添加自己的域名
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/39.png)
+
 复制这行字。接下来到刚刚买域名的网站进行绑定。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/40.png)
+
 登陆，选择 my domains.
 
 
@@ -154,22 +178,28 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/42.png)
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/43.png)
+
 按格式填写。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/44.png)
+
 成功绑定域名。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/45.png)
+
 回到000webhost检查，域名是否连接我的app了，这一过程请等5分钟。跳不出来请重新登陆000webhost,检查。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/46.png)
+
 000webhost收到响应了，我们需要link它。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/47.png)
+
 最后的连接步骤
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/48.png)
+
 连接成功的界面。
 
 5.	进行DNS加速。
@@ -178,6 +208,7 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/49.png)
+
 按要求填写，验证邮箱，即可成功。
 
 
@@ -185,25 +216,31 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/51.png)
+
 添加要加速的域名。
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/52.png)
+
 点击下一步
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/53.png)
+
 选择免费项
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/54.png)
+
 点击继续
 
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/55.png)
+
 先复制第一项，再复制第二项，将上面的两行地址，和刚刚申请域名的界面里进行替换。如下图：
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/56.png)
+
 回到cloudflare，点击继续，等10几分钟，当你看到下面的绿色条纹，即连接成功。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/57.png)
@@ -215,11 +252,13 @@ YouTube上面也有you2php的教程，小编试着按步骤走，后来觉得使
 进入你的you2php，请在域名后面加上文件名，也就是放you2php的空间根目录，比如“/2018”，我的是这个(https://pigman.ml/2018)。这里面一个小细节：https与http,其中第一个会比较安全。一般建议你用https，然而我们部署完后，https协议得等一段时间才能生效，最晚24小时，你现在先用http协议吧。
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/58.png)
+
 进去后要你输入你的用户名，密码。
 
 接下来步骤，请按照这位作者的步骤填写吧：（https://laod.cn/tools/you2b-php.html）
 
 ![Alt text](https://github.com/pigmanidea/you2php-000webhost/raw/master/images/59.png)
+
 认真填写，点击继续，安装完成后，即可观看啦。
 
 
